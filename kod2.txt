@@ -1,0 +1,23 @@
+HTML:
+
+<html> 
+ <head> 
+ <title>styl zewnetrzny</title> 
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+ <!--    zewnetrzne         --> 
+                  <LINK href="mark_z5_2.css" rel="stylesheet" type="text/CSS"> 
+ </head> 
+ <body bgcolor="silver"> 
+      <p> <h1> Markowski-Z5-zewnętrzny </h1> </p>
+      <p> Markowski - Python – język programowania wysokiego poziomu ogólnego przeznaczenia, o rozbudowanym pakiecie bibliotek standardowych, którego ideą przewodnią jest czytelność i klarowność kodu źródłowego. </p>
+	   <!-- 27.11.2021 Markowski -->
+      </body> 
+</html>
+
+CSS:
+
+h1  { 
+ color:    fuchsia; 
+ font-size:  40 px; 
+ /* 27.11.2021 Markowski */
+       }
