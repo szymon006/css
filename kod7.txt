@@ -11,19 +11,19 @@
 
  <ol> 
  
-<h1> <li>  Na co pozwala styl lokalny, który element bêdzie formatowany z u¿yciem stylu lokalnego? </h1> <br>
-<p>Styl lokalny pozwala na nadanie formatowania konkretnemu pojedynczemu elementowi strony. Jest wstawiany w tej samej linii, w której znajduje siê element formatowany. O tym, który to bêdzie element, decyduje s³owo kluczowe "selektor". <br> </p>
-<h1> <li> Sk³adnia teoretyczna ( z u¿yciem ramki otaczaj¹cej-> mo¿e byæ tabela o jednej komórce, zastosuj „znaki specjalne” do napisania definicji stylu lokalnego tak aby instrukcja CSS nie wykonywa³a siê a tylko wyœwietla³a wewn¹trz ramki [&nbsp;spacja nie³amana]<- przyk³ad „znaku specjalnego”), </h1> <br>
-<p> * { < selektor style="cecha1: wartoœæ1; cecha2: wartoœæ2...">...< /selektor> } <br> </p>
-<h1> <li> Co mo¿e byæ selektorem? </h1> <br>
-<p>Selektorem mo¿e byæ praktycznie dowolny znacznik, np. p (akapit), h1 (nag³ówek), td (komórka tabeli) i inne. To w³aœnie elementom znajduj¹cym siê pomiêdzy tymi znacznikami, nadajemy atrybuty formatowania. <br> </p>
-<h1> <li> Co wipisujemy jako "cechê". Jakie jest znaczenie œredników? </h1> <br>
-<p>Jako "cechê" czy inaczej w³asnoœæ b¹dŸ w³aœciwoœæ (ang. "property") nale¿y wpisaæ o jakie konkretnie atrybuty formatowania nam chodzi (np. kolor tekstu - color). Jednemu selektorowi mo¿emy nadaæ kilka atrybutów (cech). S¹ one wtedy rozdzielone œrednikami. <br> </p>
-<h1> <li> Co wipisujemy jako "wartoœæ" (w deklaracji stylu)? </h1> <br>
-<p>Jako wyraz "wartoœæ" (w deklaracji stylu) wpisujemy dok³adn¹ wartoœæ atrybutu (np. dla koloru tekstu bêdzie to: red, blue czy te¿ #31F4A5 itd.). Wartoœæ zale¿y œciœle od cechy, po której stoi w deklaracji. Opis wszystkich cech póŸniej. <br>  </p>
+<h1> <li>  Na co pozwala styl lokalny, ktÃ³ry element bÄ™dzie formatowany z uÅ¼yciem stylu lokalnego? </h1> <br>
+<p>Styl lokalny pozwala na nadanie formatowania konkretnemu pojedynczemu elementowi strony. Jest wstawiany w tej samej linii, w ktÃ³rej znajduje siÄ™ element formatowany. O tym, ktÃ³ry to bÄ™dzie element, decyduje sÅ‚owo kluczowe "selektor". <br> </p>
+<h1> <li> SkÅ‚adnia teoretyczna ( z uÅ¼yciem ramki otaczajÄ…cej-> moÅ¼e byÄ‡ tabela o jednej komÃ³rce, zastosuj â€znaki specjalneâ€ do napisania definicji stylu lokalnego tak aby instrukcja CSS nie wykonywaÅ‚a siÄ™ a tylko wyÅ›wietlaÅ‚a wewnÄ…trz ramki [&nbsp;spacja nieÅ‚amana]<- przykÅ‚ad â€znaku specjalnegoâ€), </h1> <br>
+<p> * { < selektor style="cecha1: wartoÅ›Ä‡1; cecha2: wartoÅ›Ä‡2...">...< /selektor> } <br> </p>
+<h1> <li> Co moÅ¼e byÄ‡ selektorem? </h1> <br>
+<p>Selektorem moÅ¼e byÄ‡ praktycznie dowolny znacznik, np. p (akapit), h1 (nagÅ‚Ã³wek), td (komÃ³rka tabeli) i inne. To wÅ‚aÅ›nie elementom znajdujÄ…cym siÄ™ pomiÄ™dzy tymi znacznikami, nadajemy atrybuty formatowania. <br> </p>
+<h1> <li> Co wipisujemy jako "cechÄ™". Jakie jest znaczenie Å›rednikÃ³w? </h1> <br>
+<p>Jako "cechÄ™" czy inaczej wÅ‚asnoÅ›Ä‡ bÄ…dÅº wÅ‚aÅ›ciwoÅ›Ä‡ (ang. "property") naleÅ¼y wpisaÄ‡ o jakie konkretnie atrybuty formatowania nam chodzi (np. kolor tekstu - color). Jednemu selektorowi moÅ¼emy nadaÄ‡ kilka atrybutÃ³w (cech). SÄ… one wtedy rozdzielone Å›rednikami. <br> </p>
+<h1> <li> Co wipisujemy jako "wartoÅ›Ä‡" (w deklaracji stylu)? </h1> <br>
+<p>Jako wyraz "wartoÅ›Ä‡" (w deklaracji stylu) wpisujemy dokÅ‚adnÄ… wartoÅ›Ä‡ atrybutu (np. dla koloru tekstu bÄ™dzie to: red, blue czy teÅ¼ #31F4A5 itd.). WartoÅ›Ä‡ zaleÅ¼y Å›ciÅ›le od cechy, po ktÃ³rej stoi w deklaracji. Opis wszystkich cech pÃ³Åºniej. <br>  </p>
 
 </ol>
 
  </body>
-
+ 
 </html> 
