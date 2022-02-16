@@ -1,0 +1,48 @@
+HTML:
+
+<html>
+
+<head>
+
+<link href="markowski_z22.css" rel="stylesheet" type="text/CSS"> 
+
+</head>
+
+<body>
+
+<p> Markowski, Procesor (ang. central processing unit, CPU) – sekwencyjne urządzenie cyfrowe, które pobiera dane z pamięci operacyjnej, interpretuje je i wykonuje jako rozkazy. Procesory wykonywane są zwykle jako układy scalone zamknięte w hermetycznej obudowie, często posiadającej złocone wyprowadzenia (stosowane ze względu na odporność na utlenianie) i w takiej postaci nazywa się je mikroprocesorami – w mowie potocznej pojęcia procesor i mikroprocesor używane są zamiennie. Sercem procesora jest monokryształ krzemu, na który naniesiono techniką fotolitografii szereg warstw półprzewodnikowych, tworzących, w zależności od zastosowania, sieć od kilku tysięcy do kilku miliardów tranzystorów. Jego obwody wykonywane są z metali o dobrym przewodnictwie elektrycznym, takich jak aluminium czy miedź. </p> <br>
+<p id="gruby_markowski"> Markowski, Java (wym. dżawa) – współbieżny, oparty na klasach, obiektowy język programowania ogólnego zastosowania. Został stworzony przez grupę roboczą pod kierunkiem Jamesa Goslinga z firmy Sun Microsystems. Java jest językiem tworzenia programów źródłowych kompilowanych do kodu bajtowego, czyli postaci wykonywanej przez maszynę wirtualną. Język cechuje się silnym typowaniem. Jego podstawowe koncepcje zostały przejęte z języka Smalltalk (maszyna wirtualna, zarządzanie pamięcią) oraz z języka C++ (duża część składni i słów kluczowych). </p> <br>
+<h1 id="dlawszystkich_markowski"> Markowski, Python – język programowania wysokiego poziomu ogólnego przeznaczenia, o rozbudowanym pakiecie bibliotek standardowych, którego ideą przewodnią jest czytelność i klarowność kodu źródłowego. Jego składnia cechuje się przejrzystością i zwięzłością. Python wspiera różne paradygmaty programowania: obiektowy, imperatywny oraz w mniejszym stopniu funkcyjny. Posiada w pełni dynamiczny system typów i automatyczne zarządzanie pamięcią, będąc w tym podobnym do języków Perl, Ruby, Scheme czy Tcl. Podobnie jak inne języki dynamiczne jest często używany jako język skryptowy. Interpretery Pythona są dostępne na wiele systemów operacyjnych. Python rozwijany jest jako projekt Open Source zarządzany przez Python Software Foundation, która jest organizacją non-profit. Standardową implementacją języka jest CPython (napisany w C), ale istnieją też inne, np. Jython (napisany w Javie), CLPython napisany w Common Lisp, IronPython (na platformę .NET) i PyPy (napisany w Pythonie, zob. bootstrap). </h1> <br>
+<div id="dlawszystkich_markowski"> Markowski, JavaScript, w skrócie JS – skryptowy oraz wieloparadygmatowy język programowania, stworzony przez firmę Netscape, najczęściej stosowany na stronach internetowych. Twórcą JavaScriptu jest Brendan Eich. W połowie lat 90. XX wieku organizacja ECMA wydała na podstawie JavaScriptu standard języka skryptowego o nazwie ECMAScript, aktualnie rozwijaniem tego standardu zajmuje się komisja TC39. W 1996 r. organizacja ECMA rozpoczęła pracę nad specyfikacją języka JavaScript pozbawioną odniesień do środowiska interpretującego kod. Język opisany w standardzie ECMA-262 został nazwany ECMAScript. Od tego momentu nazwa JavaScript oznacza jedynie jeden z nadzbiorów języka ECMAScript. Pierwsza wersja standardu była bliska JavaScriptowi w wersji 1.1. Trzecia jako pierwsza rozszerzyła istniejące implementacje. Wersja ES4 została całkowicie porzucona przez przeglądarki internetowe, korzystał z niej jedynie język ActionScript dla platformy Flash. </div> <br>
+
+
+</body>
+
+</html>
+
+<!-- Szymon Markowski -->
+
+CSS:
+
+p {
+
+color: red;
+font-size: 22pt;
+
+}
+
+p#gruby_markowski {
+
+color: green;
+font-size: 17pt;
+font-weight: bolder;
+
+}
+
+#dlawszystkich_markowski {
+
+color: yellow;
+font-size: 10pt;
+font-family: Arial;
+
+}
