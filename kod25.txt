@@ -1,0 +1,119 @@
+HTML:
+
+<html>
+
+<head>
+
+<title>Właściwości czcionek-Markowski</title>
+
+
+<link rel="Stylesheet" type="text/css" href="czcionki_markowski.css"/>
+
+
+</head>
+
+<body>
+
+<p id="sm" align="right"> Szymon Markowski klasa 1P, układ 4 </p> 
+ <br>
+<div id="akapit1_markowski"> Akapit 1 - do prawej <br>
+ <br>
+<p id="z1_markowski"> CSS - Kaskadowe Arkusze Stylów (z ang. Cascading Style Sheets) jest to specjalny język stworzony w celu elastycznego zarządzania sposobem formatowania (wyglądem) elementów znajdujących się na stronach WWW.  </p> 
+<p id="z2_markowski"> W CSS rozdzielenie struktury i prezentacji dokumentów czyli: wszystkie polecenia dotyczące formatowania można umieścić w jednym miejscu (tzw. arkuszu) i powiązać je z konkretnymi elementami, wstawionymi za pomocą czystego (X)HTML. Taki sposób sprawia, że modyfikacja wyglądu stron może przebiegać dużo sprawniej. </p>
+<p id="z3_markowski"> Dokumenty pisane z wykorzystaniem arkuszy stylów są zwykle bardziej przejrzyste i krótsze. </p>
+</div>
+<br>
+<div id="akapit2_markowski"> Akapit 2 - centrowany <br>
+ <br>
+<p id="z4_markowski"> Język HTML (Hypertext Markup Language) jest językiem programowania umożliwiającym tworzenie stron WWW (stron domowych). </p> 
+<p id="z5_markowski"> W HTML modyfikacja wyglądu elementów strony jest bardzo żmudna (atrybuty i znaczniki które za to odpowiadają, są porozrzucane w różnych miejscach kodu, mieszając się ze strukturą dokumentu) </p>
+<p id="z6_markowski"> W HTML teksty są długie i czasami nieprzejrzyste  </p> 
+<br>
+</div>
+</body>
+
+</html>
+
+CSS:
+
+body { background-color: silver; }
+
+p#sm {
+
+color: red;
+font-size: 1cm;
+
+}
+
+div#akapit1_markowski
+{
+font-family: serif;
+color: #FF7F50;
+text-ident: 28mm;
+text-align: right;
+}
+p#z1_markowski 
+{
+text-decoration: overline;
+font-weight: 500;
+font-size: small;
+line-height: 2cm;
+font-variant: big-caps;
+text-transform: uppercase;
+color: #FF7F50;
+}
+
+p#z2_markowski 
+{
+font-style: italic ;
+font-weight: 600;
+color: #FFA07A;
+font-size: medium;
+line-height: 10px;
+}
+
+p#z3_markowski 
+{
+font-weight: 700;
+color: #FF6347;
+font-size: xx-large;
+line-height: 2ex;
+}
+
+div#akapit2_markowski
+{
+font-family: sans-serif;
+color: #FFA500;
+text-ident:  3cm;
+text-align: center;
+}
+p#z4_markowski 
+{
+text-decoration: line-through;
+font-weight: 300;
+color: #FFA500;
+font-size: 0.25in;
+line-height: 10mm;
+font-variant: small-caps;
+
+}
+
+p#z5_markowski 
+{
+font-style:  oblique;
+font-weight: 600;
+color:#FF4500;
+font-size: 20px;
+line-height: 10pt;
+
+}
+
+p#z6_markowski 
+{
+font-style: italic ;
+font-weight: 800;
+color: #FF8C00;
+font-size: 4em;
+line-height: 0,25cm;
+text-transform: capitalize;
+}

@@ -1,0 +1,82 @@
+﻿
+body { background-color: silver; }
+
+p#sm {
+
+color: red;
+font-size: 1cm;
+
+}
+
+div#akapit1_markowski
+{
+font-family: serif;
+color: #FF7F50;
+text-ident: 28mm;
+text-align: right;
+}
+p#z1_markowski 
+{
+text-decoration: overline;
+font-weight: 500;
+font-size: small;
+line-height: 2cm;
+font-variant: big-caps;
+text-transform: uppercase;
+color: #FF7F50;
+}
+
+p#z2_markowski 
+{
+font-style: italic ;
+font-weight: 600;
+color: #FFA07A;
+font-size: medium;
+line-height: 10px;
+}
+
+p#z3_markowski 
+{
+font-weight: 700;
+color: #FF6347;
+font-size: xx-large;
+line-height: 2ex;
+}
+
+div#akapit2_markowski
+{
+font-family: sans-serif;
+color: #FFA500;
+text-ident:  3cm;
+text-align: center;
+}
+p#z4_markowski 
+{
+text-decoration: line-through;
+font-weight: 300;
+color: #FFA500;
+font-size: 0.25in;
+line-height: 10mm;
+font-variant: small-caps;
+
+}
+
+p#z5_markowski 
+{
+font-style:  oblique;
+font-weight: 600;
+color:#FF4500;
+font-size: 20px;
+line-height: 10pt;
+
+}
+
+p#z6_markowski 
+{
+font-style: italic ;
+font-weight: 800;
+color: #FF8C00;
+font-size: 4em;
+line-height: 0,25cm;
+text-transform: capitalize;
+}
