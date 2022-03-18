@@ -1,0 +1,40 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+ <HEAD>
+ <TITLE>Style wewnÄtrzne</TITLE>
+ <META http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+ <style type="text/css">
+ H1 {
+ width: 200px;
+ height:2cm;
+ padding : 50px;
+ margin : 40px;
+ border : 4px dotted black;
+ background : rgb(255,255,130);
+ }
+ H2 {
+ width: 300px;
+ height:1.5cm;
+ padding : 30px;
+ margin-left : 340px;
+ border : 7px groove red;
+ background : rgb(0,255,0);
+ }
+ H3 {
+ width: 400px;
+ height:0.5cm;
+ padding : 20px;
+ margin-left : 710px;
+ border : 10px outset blue;
+ background : rgb(100,100,100);
+ }
+ </style>
+ </HEAD>
+<BODY>
+<H1>Markowski</H1>
+<H2>Szymon</H2>
+<H3>1P, grupa 1, 18.03.2022</H3>
+</BODY>
+</HTML>
+
+<!--Szymon Markowski-->
