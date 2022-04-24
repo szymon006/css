@@ -1,0 +1,26 @@
+div {
+	
+	width: 615px;
+	background-color: green;
+	
+}
+
+div#blok1_markowski:hover {
+	
+	background-color: red;
+	font-size: 19mm;
+}
+
+div#blok2_markowski:hover {
+	
+	background-color: orange;
+	font-size: 19mm;
+}
+
+div#blok3_markowski:hover {
+	
+	background-color: yellow;
+	font-size: 19mm;	
+}
+
+/* hover; -> gdy się nakieruje, Szymon Markowski */

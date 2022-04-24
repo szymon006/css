@@ -1,0 +1,26 @@
+A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: green;
+}
+A:hover
+{
+color: red;
+text-decoration: underline;
+}
+DIV {
+	font-size: 2cm;
+	color: red;
+}
+
+/* text-decoration: none; -> brak dekoracji tekstu
+      text-decoration: underline; -> podkreślenie 
+	  Szymon Markowski */

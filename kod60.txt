@@ -1,0 +1,52 @@
+﻿HTML:
+
+<html>
+
+<head>
+
+<LINK href="zadanie60_mark.css" rel="stylesheet" type="text/CSS"> 
+
+</head>
+
+<body>
+
+<div id="blok1_markowski"> blok1_markowski </div> <br>
+<div id="blok2_markowski"> blok2_markowski </div> <br>
+<div id="blok3_markowski"> blok3_markowski </div> <br>
+
+</body>
+
+</html>
+
+<!--hover; -> gdy się nakieruje, Szymon Markowski -->
+
+
+CSS:
+
+
+div {
+	
+	width: 615px;
+	background-color: green;
+	
+}
+
+div#blok1_markowski:hover {
+	
+	background-color: red;
+	font-size: 19mm;
+}
+
+div#blok2_markowski:hover {
+	
+	background-color: orange;
+	font-size: 19mm;
+}
+
+div#blok3_markowski:hover {
+	
+	background-color: yellow;
+	font-size: 19mm;	
+}
+
+/* hover; -> gdy się nakieruje, Szymon Markowski */
