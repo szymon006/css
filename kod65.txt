@@ -1,0 +1,86 @@
+HTML:
+
+<html>
+
+<head>
+
+<LINK href="zadanie65_mark.css" rel="stylesheet" type="text/CSS">
+
+</head>
+
+<body>
+
+<p id="id1"> Matryca TN (Twisted Nematic) najczęściej montowana jest w monitorach oraz ekranach laptopów. TN do swojej pracy wykorzystuje warstwę ciekłych kryształów, które znajdują się pomiędzy szklanymi płytkami. Rozmieszczone wewnątrz płytki oddzielone są od siebie elementami dystansowymi w celu utrzymania stałej odległości. </p>
+
+<p id="id2"> Monitor komputerowy – ogólna nazwa jednego z urządzeń wyjścia do bezpośredniej komunikacji użytkownika z komputerem. Zadaniem monitora jest natychmiastowa wizualizacja wyników działania programów uruchomionych na komputerze. </p>
+
+<h1 id="id3"> CSS są piękne </h1>
+
+<h1 id="id4"> Kolejnym pseudoelementem jest :first-line, który w przeciwieństwie do
+poprzednika obejmuje formatowaniem całą pierwszą linię, a nie tylko pierwszą literę </h1>
+
+</body>
+
+</html>
+
+CSS:
+
+p:first-letter {
+	
+ font-size:117pt;
+
+}
+
+p#id1:first-letter {
+	
+color: red;
+font-size:117pt;
+}
+
+p#id2:first-letter {
+	
+color: orange;
+font-size:117pt;
+}
+
+p#id1{
+	
+color: yellow;
+font-size:21pt;
+}
+
+p#id2 {
+	
+color: yellow;
+font-size:22pt;
+}
+
+h1#id3 {
+	
+color: purple;
+font-size:60pt;
+}
+
+h1#id3:first-letter {
+	
+color: silver;
+font-size:150pt;
+}
+
+h1#id4 {
+	
+color: yellow;
+font-size:30pt;
+}
+
+h1#id4:first-line {
+	
+color: red;
+font-size:30pt;
+}
+
+h1#id4:first-letter {
+	
+color: red;
+font-size:90pt;
+}
